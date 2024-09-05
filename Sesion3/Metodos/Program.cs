@@ -21,7 +21,6 @@ double Sumar3(double n1,double n2)
     return resultado;
 }
 Func<double, double, double> SumaLamda = (n1, n2) => (n1 + n2);
-
 Console.WriteLine("Sumando 1 void, parametros");
 Sumar(5,10);
 Console.WriteLine("Sumando 2 void Global");
