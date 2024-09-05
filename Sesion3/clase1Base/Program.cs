@@ -16,5 +16,12 @@ nombre=Console.ReadLine();
 Console.WriteLine("Mi nombre es "+nombre +" mi edad es "+edad);
 Console.WriteLine($"Mi altura es {altura}");
 Console.WriteLine("Escribe tu Dinero");
+//ESTE ES EL COMENTARIO DE PRUEBA
+/*
+ * 
+ * Comentario
+ * 
+ * 
+ */
 dinero =double.Parse(Console.ReadLine());
 Console.WriteLine($"tu dinero es {dinero}");
